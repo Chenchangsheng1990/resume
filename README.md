@@ -55,8 +55,8 @@
 
 ## 项目经历--设计部分
 
-**西藏自然科学博物馆**：http://www.68design.net/work/108367
-**华硕笔记本冷酷系列**：http://www.68design.net/work/96060
+**西藏自然科学博物馆**：http://www.68design.net/work/108367<br/>
+**华硕笔记本冷酷系列**：http://www.68design.net/work/96060<br/>
 ---等等--由于网页已经改变或其他原因链接为设计稿上传地址---
 **设计作品集**：http://www.68design.net/u/66445/  （已经好久好久没更新过，毕竟没做设计那块了！~）
 
