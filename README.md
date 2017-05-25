@@ -1,4 +1,4 @@
-`[个人简历](http://http://imccs.top/)`
+`------------------------------------------------------------个人简历----------------------------------------------------------------`
 ================
 
 
@@ -16,7 +16,7 @@
 
 **Email**：changshenggg@gmail.com
 
-**博客**：https://github.com/livoras/blog/issues
+**个人主页**：http://http://imccs.top/
 
 **github**：https://github.com/chenchangsheng1990
 
