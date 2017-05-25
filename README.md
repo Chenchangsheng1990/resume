@@ -55,17 +55,22 @@
 
 ## 项目经历--设计部分
 
-##[西藏自然科学博物馆](http://www.68design.net/work/108367)
-##[华硕笔记本冷酷系列](http://www.68design.net/work/96060)
-*  等等--由于网页已经改变或其他原因链接为设计稿上传地址。
-*  [设计作品集]（http://www.68design.net/u/66445/）已经好久好久没更新过，毕竟没做设计那块了！~~
+**西藏自然科学博物馆**：http://www.68design.net/work/108367
+**华硕笔记本冷酷系列**：http://www.68design.net/work/96060
+---等等--由于网页已经改变或其他原因链接为设计稿上传地址---
+**设计作品集**：http://www.68design.net/u/66445/  （已经好久好久没更新过，毕竟没做设计那块了！~）
 
-#### [兔展](http://www.rabbitpre.com/)
-项目网站：http://www.rabbitpre.com/
 
-移动端HTML5展示应用生成器，通过简单的交互操作就可以生成HTML5展示页面，用于微信等移动页面展示。
+## 项目经历--web前端
 
-本人完成了此项目的基础架构设计和第一个版本的实现。
+#### [万德商城](http://www.wandemall.com/)
+**项目网站**：http://www.wandemall.com/
+**项目描述**：此项目是一个电商网站，主要是针对于生鲜产品
+**个人职责**：
+* 根据设计原型图进行静态页面的还原。
+* 利用jQuery及插件（放大镜，轮播图等）实现页面的动态效果
+* 通过ajax进行数据请求，并渲染到客户端页面
+* 利用cookie对一些数据进行存储
 
 #### [Saber](https://github.com/livoras/saber)
 项目地址：https://github.com/livoras/saber
