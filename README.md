@@ -1,5 +1,5 @@
 "# resume" 
-#个人简历
+个人简历
 ======================
 陈长生的个人简历
 
@@ -31,13 +31,21 @@
 拥有较强的学习能力和团队合作能力，熟悉项目开发流程和团队协同工作。
 
 ## 技术能力
+* 了解前端最新规范，如：ES5，ES6，CSS3、HTML5以及AMD、CMD、CommonJs等；
+* 精通使用HTML、CSS进行响应式布局、弹性盒布局、流式布局等布局；
+* 熟练使用BootStarp、MUI、JQueryEasyUi等UI框架进行页面快速布局；
+* 精通使用原生JS和JS类库JQuery、Zepto实现数据交互与效果并对ES5、ES6有掌握；
+* 熟练使用AngularJs、React、Vue等JS框架；
+* 熟练使用Zoomio、Carousel、JQuery.Lazyload、mansory、Swiper、IScroll等类库与插件高效的完成效果；
+* 熟练使用gulp、webpack进行项目的构建打包，并使用git进行代码托管；
+* 精通使用Sass对CSS进行预编译处理；
+* 掌握后台语言NodeJS及其框架Express并了解PHP，能够自己简单的写出数据调用的接口；
+* 熟悉数据库：Mysql和Mongodb，能够对数据库进行增删改查操作；
+* 熟练使用JSSDK进行微信公众号的开发、混合式开发、微信小程序的开发；
 
-* 专注并热爱于Web前端开发，熟练掌握JavaScript、CSS、HTML以及各种JS、CSS框架来搭建一个Web应用
-* 熟练使用JavaScript开发程序，了解原生JavaScript以及框架和类库的使用。有较大型前端SPA的架构经验（BackboneJS | KnockoutJS | Angular）。
-* 熟练掌握NodeJS相关开发。
 
 ## 个人经历
-* 2011年进入中山大学软件学院学习。
+* 2009年进入中山大学软件学院学习。
 * 大一接触Web，并且专注前端，热血编程至今。
 * 大二曾在创业项目中担任前端工程师和Team Leader角色。
 * 担任中山大学现代互联网应用俱乐部主席。
